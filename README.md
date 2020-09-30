@@ -2,7 +2,9 @@
 
 ## Hi there 👋
 
-## I'm Gil! 🌱 I’m currently learning about Nodejs, MongoDB, Vue, React, Ionic... and a little more 🐱‍👤
+## I'm Gil!
+
+- 🌱 I’m currently learning about Nodejs, MongoDB, Vue, React, Ionic... and a little more 🐱‍👤
 
 Fullstack focused in Nodejs :man_technologist:
 

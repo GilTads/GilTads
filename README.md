@@ -1,6 +1,6 @@
-<img align="right" width="400" src=" https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif">
+<img align="right" width="400" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif">
 
-### Hi there 👋
+## Hi there 👋
 
 ## I'm Gil! 🌱 I’m currently learning about Nodejs, MongoDB, Vue, React, Ionic... and a little more 🐱‍👤
 
